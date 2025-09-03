@@ -9,7 +9,7 @@ const users = {
     },
 }
 
-// Adicionando propiedades a um objeto (utíl paranomes dinâmicos e caracteres especiais)
+// Adicionando propiedades a um objeto (utíl para nomes dinâmicos e caracteres especiais)
 // Notação de ponto
 users.profissao = "Desenvolvedor"
 
